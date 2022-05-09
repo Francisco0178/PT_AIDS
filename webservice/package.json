@@ -1,0 +1,16 @@
+{
+  "name": "wsaids",
+  "version": "1.0.0",
+  "description": "aids essential webservices",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "str",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.16"
+  }
+}

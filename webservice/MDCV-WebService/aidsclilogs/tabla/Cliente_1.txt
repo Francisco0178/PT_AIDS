@@ -1,0 +1,6 @@
+Funcion: ClosePort	Port: 54915	Fecha: 4/5/2022	Hora: 12:01:17	Sintoma: Exploits
+Funcion: ClosePort	Port: 50001	Fecha: 4/5/2022	Hora: 12:01:18	Sintoma: Exploits
+Funcion: ClosePort	Port: 443	Fecha: 4/5/2022	Hora: 12:01:19	Sintoma: Exploits
+Funcion: ClosePort	Port: 51612	Fecha: 4/5/2022	Hora: 12:01:20	Sintoma: Exploits,Generic
+Funcion: ClosePort	Port: 27018	Fecha: 4/5/2022	Hora: 12:01:21	Sintoma: Generic
+Funcion: ClosePort	Port: 54760	Fecha: 4/5/2022	Hora: 12:01:22	Sintoma: Exploits
